@@ -32,28 +32,28 @@
     [
         "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 340,
             "modifiedTime": 1509519093000,
             "changeTime": 1509519093000,
-            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2"
         }
     ],
     [
         "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1509518402000,
+            "changeTime": 1509518402000,
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
             "isMetadataFile": false,
-            "size": 204,
-            "modifiedTime": 1509519099000,
-            "changeTime": 1509519099000,
-            "isWorkspace": false,
-            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -258,7 +258,7 @@
             "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
             "size": 272,
-            "modifiedTime": 1509519375000,
+            "modifiedTime": 1509517925000,
             "changeTime": 1509517925000,
             "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
             "isMetadataFile": false,
@@ -268,14 +268,14 @@
     [
         "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "size": 182,
+            "modifiedTime": 1509518575000,
+            "changeTime": 1509518575000,
+            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784",
             "isMetadataFile": false,
-            "size": 181,
-            "modifiedTime": 1509519375000,
-            "changeTime": 1509519375000,
-            "contentHash": "e05bec8774242e5ee28e45db66cf7798bd266d97"
+            "state": "u"
         }
     ],
     [
@@ -619,274 +619,183 @@
     [
         "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 210,
             "modifiedTime": 1509519093000,
             "changeTime": 1509519093000,
-            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259"
         }
     ],
     [
         "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet",
         {
+            "state": "u",
             "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1509519093000,
             "changeTime": 1509519093000,
-            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029"
         }
     ],
     [
         "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/images",
         {
+            "state": "u",
             "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/images",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 238,
             "modifiedTime": 1509519093000,
             "changeTime": 1509519093000,
-            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659"
         }
     ],
     [
         "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
         {
+            "state": "u",
             "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 1259,
             "modifiedTime": 1509519093000,
             "changeTime": 1509519093000,
-            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee"
         }
     ],
     [
         "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
         {
+            "state": "u",
             "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 696,
             "modifiedTime": 1509519093000,
             "changeTime": 1509519093000,
-            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06"
         }
     ],
     [
         "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
         {
+            "state": "u",
             "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 2586,
             "modifiedTime": 1509519093000,
             "changeTime": 1509519093000,
-            "contentHash": "95a44b9ca71fe03fdf65ddd8eea12f1910f38de2",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "95a44b9ca71fe03fdf65ddd8eea12f1910f38de2"
         }
     ],
     [
         "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
         {
+            "state": "u",
             "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 1466,
             "modifiedTime": 1509519093000,
             "changeTime": 1509519093000,
-            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da"
         }
     ],
     [
         "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
         {
+            "state": "u",
             "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 618,
             "modifiedTime": 1509519093000,
             "changeTime": 1509519093000,
-            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc"
         }
     ],
     [
         "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
         {
+            "state": "u",
             "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 389832,
             "modifiedTime": 1509519093000,
             "changeTime": 1509519093000,
-            "contentHash": "19438b9a9d066e915e96db27259a5948c4f4f4e3",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "19438b9a9d066e915e96db27259a5948c4f4f4e3"
         }
     ],
     [
         "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
         {
+            "state": "u",
             "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 741401,
             "modifiedTime": 1509519093000,
             "changeTime": 1509519093000,
-            "contentHash": "a93b2d29416cb0ec882ac28f41dcc4bd18e1cd99",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "a93b2d29416cb0ec882ac28f41dcc4bd18e1cd99"
         }
     ],
     [
         "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
         {
+            "state": "u",
             "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 14061,
             "modifiedTime": 1509519093000,
             "changeTime": 1509519093000,
-            "contentHash": "d7015409fa5ce3f54a60c25562a7ebf858d90397",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "d7015409fa5ce3f54a60c25562a7ebf858d90397"
         }
     ],
     [
         "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
         {
+            "state": "u",
             "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 137208,
             "modifiedTime": 1509519093000,
             "changeTime": 1509519093000,
-            "contentHash": "87938b386fd7224a667332336c59b79e7fa0fde6",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "87938b386fd7224a667332336c59b79e7fa0fde6"
         }
     ],
     [
         "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
         {
+            "state": "u",
             "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 186247,
             "modifiedTime": 1509519093000,
             "changeTime": 1509519093000,
-            "contentHash": "0e397274f80e9a86d4ad7a6534c23ba9e10b6448",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "0e397274f80e9a86d4ad7a6534c23ba9e10b6448"
         }
     ],
     [
         "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources",
         {
+            "state": "u",
             "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/staticresources",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1509519093000,
             "changeTime": 1509519093000,
-            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/aura/AccountMap",
-        {
-            "state": "u",
-            "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/aura/AccountMap",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 272,
-            "modifiedTime": 1509519099000,
-            "changeTime": 1509519099000,
-            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4"
-        }
-    ],
-    [
-        "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 262,
-            "modifiedTime": 1509519145000,
-            "changeTime": 1509519145000,
-            "contentHash": "1a1b063e0b44f52f4b505bbfddd9ad5882c08b38"
-        }
-    ],
-    [
-        "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1509519099000,
-            "changeTime": 1509519099000,
-            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15"
-        }
-    ],
-    [
-        "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 42,
-            "modifiedTime": 1509519249000,
-            "changeTime": 1509519249000,
-            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c"
-        }
-    ],
-    [
-        "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 379,
-            "modifiedTime": 1509519201000,
-            "changeTime": 1509519201000,
-            "contentHash": "03c2ff940a77f739be3be834b08d71acb5ef1c83"
-        }
-    ],
-    [
-        "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1509519099000,
-            "changeTime": 1509519099000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/utiwari/Documents/sfdx/projects/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1509519099000,
-            "changeTime": 1509519099000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49"
         }
     ]
 ]
